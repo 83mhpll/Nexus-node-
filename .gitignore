@@ -1,0 +1,52 @@
+# Log files
+*.log
+logs/
+nexus-node.log
+nexus-node-*.log
+
+# PID files
+*.pid
+nexus-node.pid
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+
+# Archive files
+*.tar.gz
+*.zip
+
+# SSH keys
+*.key
+*.pem
+id_rsa*
+nexus_vps_key*
+
+# Environment files
+.env
+.env.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VPS specific files
+vps-*.txt
+*-vps-*.txt
+backup-*.tar.gz
+nexus-vps-backup-*/
+
+# Auto-restart logs
+auto-restart.log
+auto-restart.pid
+
+# Node specific logs
+nexus-node-*.log
+nexus-wallet*-*.log
+nexus-node1.log
+nexus-node2.log
+nexus-node3.log
