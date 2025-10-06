@@ -5,8 +5,8 @@ This repository contains scripts and configurations for managing multiple Nexus 
 
 ## 📊 Current Setup
 - **6 Nodes Total**: 3 nodes per wallet
-- **Wallet 1**: `0xadbA787A3Dc59139C02516ECA5C5863E7D05Ac6F` (Node ID: 36443260)
-- **Wallet 2**: `0xa0219D57eC9Ab85852acc317C19b79213053Ab5D` (Node ID: 36443261)
+- **Wallet 1**:  (Node ID: 36443260)
+- **Wallet 2**:  (Node ID: 36443261)
 
 ## 🚀 Features
 - **Auto-restart functionality**
